@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
+how to merge request
 
 ## What it does
 
-FEATURES PLACEHOLDER
++ feature1
++ feature2
 
 ## Getting started
 
